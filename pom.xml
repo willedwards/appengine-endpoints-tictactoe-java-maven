@@ -14,6 +14,33 @@
   </properties>
   
   <dependencies>
+      <!-- App engine client API -->
+      <!--<dependency>-->
+            <!--<groupId>com.appspot.itaxibookhtml</groupId>-->
+            <!--<artifactId>tictactoe</artifactId>-->
+            <!--<version>v1-1.17.0-rc-SNAPSHOT</version>-->
+      <!--</dependency>-->
+
+      <!--<dependency>-->
+            <!--<groupId>com.google.api-client</groupId>-->
+            <!--<artifactId>google-api-client-appengine</artifactId>-->
+            <!--<version>1.17.0-rc</version>-->
+      <!--</dependency>-->
+
+      <!--<dependency>-->
+          <!--<groupId>com.google.http-client</groupId>-->
+          <!--<artifactId>google-http-client-gson</artifactId>-->
+          <!--<version>1.17.0-rc</version>-->
+        <!--</dependency>-->
+
+      <!--<dependency>-->
+          <!--<groupId>com.google.http-client</groupId>-->
+          <!--<artifactId>google-http-client-jackson2</artifactId>-->
+          <!--<version>1.17.0-rc</version>-->
+        <!--</dependency>-->
+
+      <!-- -->
+
       <dependency>
           <groupId>com.google.code.findbugs</groupId>
           <artifactId>jsr305</artifactId>

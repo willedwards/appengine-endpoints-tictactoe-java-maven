@@ -25,7 +25,7 @@ google.devrel.samples.ttt = google.devrel.samples.ttt || {};
  * @type {string}
  */
 google.devrel.samples.ttt.CLIENT_ID =
-    'YOUR-CLIENT-ID';
+    'itaxibookperf';
 
 /**
  * Scopes used by the application.
